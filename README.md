@@ -1,8 +1,8 @@
 # land-prices
 
-Visualizing changes in land prices, using data from the Federal Housing Finance
+Visualizing changes in land prices in New Jersey, using data from the Federal Housing Finance
 Agency. I tweeted about this project
-[here](https://twitter.com/TheRealEveret/status/1081025271392862208).
+[here](https://twitter.com/TheRealEveret/status/1081025271392862208). More states might be coming soon.
 
 # Data
 
